@@ -1,0 +1,13 @@
+{
+    "name":"Bruce",
+    "lname":"Wayne",
+    "heroicname":"Batman",
+    "age":45,
+    "isMarried":false,
+    "vehicles":["Batmobil","Batcopter","Batship"],
+    "movies":
+    [{"movie:":"Batman Begins","year":2005},
+     {"movie:":"The Dark Knight","year":2008},
+     {"movie:":"The Dark Knighnt Rises","year":2012}
+    ]
+}
